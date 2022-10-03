@@ -402,11 +402,11 @@ show_usage() {
 show_menu() {
     clear
     echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-    echo -e "\E[44;1;37m               ♻️ DARKV2RAY MANAGER ♻️              \E[0m"
+    echo -e "\E[44;1;37m               ♻️ V2RAY MANAGER ♻️              \E[0m"
     echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-    echo -e "\033[0;34m  #BY:      🔥⚡️⚡️ Sithum Batrow 🇱🇰 ⚡️⚡️🔥       \033[0m"
+    echo -e "\033[0;34m  #BY:      🔥⚡️⚡️ Tharindu Sandaruwan 🇱🇰 ⚡️⚡️🔥       \033[0m"
     echo -e "\033[0;34m                     SRI LANKA                    \033[0m"
-    echo -e "\033[0;34m                Telegram- @sibatrow               \033[0m"
+    echo -e "\033[0;34m                Telegram- @tharindu               \033[0m"
     echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
     show_status
     echo -e "
